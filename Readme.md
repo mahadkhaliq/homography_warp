@@ -8,4 +8,4 @@ Another window will pop up, using 'Right Click' of the mouse, select 4 points in
 Selected points will be shown, press enter to continue
 At last step, the wrapped image will be shown
 
-feel free to contact at : linkedin.com/mahadkhaliq
+feel free to contact at : linkedin.com/in/mahadkhaliq
